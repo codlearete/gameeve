@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/gameeve/static/css/main.da7fc912.css",
+    "main.js": "/gameeve/static/js/main.c4713bdf.js",
+    "static/js/488.b85ebd4e.chunk.js": "/gameeve/static/js/488.b85ebd4e.chunk.js",
+    "static/media/night-beach.jpg": "/gameeve/static/media/night-beach.17c291237423531e5bc5.jpg",
+    "static/media/heart-pop.mp3": "/gameeve/static/media/heart-pop.b798f3e92a5557360b21.mp3",
+    "index.html": "/gameeve/index.html",
+    "main.da7fc912.css.map": "/gameeve/static/css/main.da7fc912.css.map",
+    "main.c4713bdf.js.map": "/gameeve/static/js/main.c4713bdf.js.map",
+    "488.b85ebd4e.chunk.js.map": "/gameeve/static/js/488.b85ebd4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da7fc912.css",
+    "static/js/main.c4713bdf.js"
+  ]
+}
